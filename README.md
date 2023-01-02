@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RevolutionaryDesigners
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently working on Canadian 
+- 🌱 I’m currently working on Canadian Projects
 - 💞️ I’m looking to collaborate on Web Developer
 - 📫 How to reach me call me at 604-376-6423
 
